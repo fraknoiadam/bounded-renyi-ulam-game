@@ -1,1 +1,2 @@
-# rekurzios-renyi-ulam-max-k-kupac
+# Bounded Rényi-Ulam Game
+
